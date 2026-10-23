@@ -24,6 +24,11 @@ Obě části propojuje skutečnost, že penále i přerozdělování navazují n
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 73/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B34B3CA5F07CA12C125887D0017E187?openDocument) — 28. 4. 2022, kat. A
+  > „Úroky, úroky z prodlení a poplatek z prodlení z pohledávek přihlášených věřitelů a smluvní pokuta sjednaná pro případ prodlení s plněním přihlášené pohledávky, není-li taková smluvní pokuta dluhem z podnikání, jsou ve výši, ve které v souhrnu převyšují výši jistiny přihlášené pohledávky k okamžiku jejího vzniku, podřízenými pohledávkami ve smyslu ustanovení § 172 odst. 2 věty druhé insolvenčního zákona i tehdy, jde-li o příslušenství nebo o smluvní pokutu vzešlé z prodlení s úhradou veřejnoprávní pohledávky, včetně pohledávky z titulu dluhu na pojistném na veřejné zdravotní pojištění. Penále za nezaplacení pojistného na veřejné zdravotní pojištění není podřízenou pohledávkou ve smyslu ustanovení § 172 odst. 2 věty druhé insolvenčního zákona"
+
 #### Povaha penále a jeho vznik (odst. 1)
 
 Penále je **zákonné příslušenství** pojistného, které vzniká přímo ze zákona okamžikem prodlení; jeho předepsání (platebním výměrem či výkazem nedoplatků, § 53 ZVZP) má deklaratorní povahu. Povinnost platit penále nastupuje ve třech situacích: (i) pojistné nebo záloha nebyly zaplaceny ve lhůtě splatnosti (u zaměstnavatele do 20. dne následujícího měsíce podle § 5 odst. 2, u OSVČ do 8. dne následujícího měsíce podle § 7 odst. 2), (ii) byly zaplaceny v nižší částce, nebo (iii) byly zaplaceny jiné než příslušné pojišťovně, jinému subjektu nebo pod nesprávným variabilním symbolem — v posledních případech **fikce nezaplacení** (věta druhá). Odpovědnost za zavinění se nezkoumá; rozhodující je objektivní prodlení, přičemž za den platby se považuje den připsání na účet pojišťovny (§ 17 odst. 2).

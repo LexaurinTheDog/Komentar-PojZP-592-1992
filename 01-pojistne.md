@@ -144,6 +144,11 @@ Pojistné = 13,5 % z vyměřovacího základu za rozhodné období, zaokrouhleno
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — 30. 6. 2020, kat. A
+  > „Zúčtoval-li (budoucí) insolvenční dlužník svým zaměstnancům příjmy ze závislé činnosti (§ 3 odst. 1 zákona č. 592/1992 Sb. ve znění pozdějších předpisů) a odvedl-li (přímo) příslušné zdravotní pojišťovně pojistné na zdravotní pojištění, jehož plátci byli tito zaměstnanci, nešlo o plnění z majetku náležejícího do majetkové podstaty dlužníka"
+
 #### Vyměřovací základ zaměstnance (odst. 1)
 
 Základem je úhrn příjmů ze závislé činnosti, které (i) jsou nebo by byly předmětem daně z příjmů fyzických osob podle ZDP (poznámka 3 odkazuje na § 6 ZDP), (ii) nejsou od daně osvobozeny a (iii) byly zaměstnanci zaměstnavatelem *zúčtovány* v souvislosti se zaměstnáním. Pojem zaměstnance je převzat ze ZVZP (poznámka 2: § 5 písm. a) ZVZP), který z okruhu zaměstnanců vylučuje mj. osoby s příjmy jen osvobozenými či nepodléhajícími dani a osoby z dohod o provedení práce či o pracovní činnosti pod hranicí započitatelného příjmu. Fikce „by byly, pokud by podléhaly zdanění v ČR“ zachycuje příjmy, které nejsou v ČR zdaněny jen z důvodu mezinárodní smlouvy. Věta druhá vymezuje *zúčtování* široce — peněžní i nepeněžní plnění, výhoda, plnění předané v prospěch zaměstnance i plnění za zaměstnance; rozhodný je okamžik zúčtování, nikoli výplaty. Výjimka pro náhrady výdajů procentem z platové základny ústavních činitelů a soudců odkazuje na zákon č. 236/1995 Sb. (poznámka 55).
@@ -432,6 +437,11 @@ Měsíc je pravidlem, rok výjimkou pro OSVČ; od rozhodného období se odvíj�
 > (3) Pojistné se odvádí na účet Všeobecné zdravotní pojišťovny České republiky nebo jiné zdravotní pojišťovny provádějící veřejné zdravotní pojištění (dále jen „příslušná zdravotní pojišťovna“), u níž je pojištěnec pojištěn.20)
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — 30. 6. 2020, kat. A
+  > „Zúčtoval-li (budoucí) insolvenční dlužník svým zaměstnancům příjmy ze závislé činnosti (§ 3 odst. 1 zákona č. 592/1992 Sb. ve znění pozdějších předpisů) a odvedl-li (přímo) příslušné zdravotní pojišťovně pojistné na zdravotní pojištění, jehož plátci byli tito zaměstnanci, nešlo o plnění z majetku náležejícího do majetkové podstaty dlužníka"
 
 #### Zaměstnavatel jako plátce a „odvádějící“ (odst. 1)
 
@@ -1020,6 +1030,11 @@ Ručitel platí až po výzvě se stanovenou lhůtou; po jejím marném uplynut�
 > (3) Právo vymáhat pojistné zaniká uplynutím 20 let od právní moci platebního výměru, jímž bylo vyměřeno, nebo vykonatelnosti výkazu nedoplatků, jímž bylo předepsáno. Je-li pojistné zajištěno zástavním právem, které se zapisuje do příslušného veřejného registru, zaniká právo vymáhat pojistné uplynutím 30 let po tomto zápisu.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 107/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F7EB5A048DFFF02C12588B50017EB76?openDocument) — 22. 6. 2022, kat. A
+  > „Exekuční návrh spojený s exekučním titulem, který nikdy nevznikl [se seznamem přihlášených pohledávek vzešlým z konkursního řízení vedeného podle zákona o konkursu a vyrovnání ohledně pohledávky, kterou dlužník (úpadce) výslovně popřel], nemá za následek stavení běhu promlčecí doby určené pro „vykonatelné pohledávky“ bez zřetele k tomu, zda exekuční soud podle takového (domnělého) „exekučního titulu“ exekuci (nesprávně) nařídil"
 
 #### Lhůta pro předepsání (odst. 1)
 
